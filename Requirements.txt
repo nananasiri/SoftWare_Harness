@@ -1,0 +1,7 @@
+os
+glob2
+pandas
+numpy
+matplotlib
+ipython
+csv
